@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShelynDM
+- 👋 Hi, I’m Shelyn
 - 🌱 I’m currently learning Software Development @SAIT 
 - 😄 Pronoun: She/Her
 
